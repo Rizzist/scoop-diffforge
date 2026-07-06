@@ -9,7 +9,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/Rizzist/diffforge-cli/releases/download/v0.1.0/diffforge-v0.1.0-x86_64-pc-windows-msvc.zip",
-      "hash": "38f5325a95d50d0e3c1fb65dc691b94c96d001759d781c09b9b4c23797283eef"
+      "hash": "adcdbba83eaa12a80111b60074e44b8d49de493762b9a540aa1ac4dcdfe7d187"
     }
   },
   "bin": "diffforge.exe",
