@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Standalone command-line tool for Diff Forge AI",
   "homepage": "https://diffforge.ai",
   "license": {
@@ -8,8 +8,8 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Rizzist/diffforge-cli/releases/download/v0.2.0/diffforge-v0.2.0-x86_64-pc-windows-msvc.zip",
-      "hash": "1277ae2a9f854e5494a5fe86156d47e96f6f5b61b69b3c931514814521d93fc0"
+      "url": "https://github.com/Rizzist/diffforge-cli/releases/download/v0.3.0/diffforge-v0.3.0-x86_64-pc-windows-msvc.zip",
+      "hash": "5767281c458729ce436d488c0aa05fb8fd5dbcdffd22059d766d5ef454f2c7b4"
     }
   },
   "bin": "diffforge.exe",
